@@ -53,7 +53,7 @@ header div button {
 
 header {
     background-color: var(--amarillo);
-    padding: 25px 0;
+    padding: 20px 0;
 }
 
 header div.logo {
@@ -87,8 +87,9 @@ header div.burger-menu{
     background-color: var(--celeste);
     border-radius: 5px;
     color: white;
-    width: 15px;
-    padding: 7px;
+    width: 13px;
+    height: 16px;
+    padding: 9px;
     margin: 25px auto 0;
 }
 
@@ -101,7 +102,7 @@ header div.burger-menu{
 /* FOOTER */
 
 footer {
-    padding: 50px 10px 10px;
+    padding: 50px 15px 10px;
     background-color: white;
     color: var(--gris-oscuro)
 }
